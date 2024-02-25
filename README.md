@@ -58,9 +58,9 @@ Jarvis AI is an android application made with Unity that allows the user to inte
 5. Install application
 
     ```bash
-      Transfer the APK file to your android device
-      Install Jarvis AI application
-      ```
+    Transfer the APK file to your android device
+    Install Jarvis AI application
+    ```
 
 <hr>
 <br>
