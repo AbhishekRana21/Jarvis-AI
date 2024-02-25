@@ -29,7 +29,7 @@ public class AppManager : MonoBehaviour
 
         if (PlayerPrefs.HasKey("voice"))
         {
-            if(PlayerPrefs.GetInt("voice") == 1)
+            if (PlayerPrefs.GetInt("voice") == 1)
             {
                 voice = true;
             }
@@ -65,9 +65,14 @@ public class AppManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        if(Permission.HasUserAuthorizedPermission(Permission.Microphone))
+        if (Permission.HasUserAuthorizedPermission(Permission.Microphone))
         {
-            SceneManager.LoadScene("Chat");
+            Invoke("LoadChatScene", 5);
         }
+    }
+
+    private void LoadChatScene()
+    {
+        SceneManager.LoadScene("Chat");
     }
 }
