@@ -1,16 +1,28 @@
 ![picture](https://abhishekrana.com/Jarvis-AI/Images/JarvisAI.png)
 
-# Jarvis AI
+<div align="center">
+  <h1>Jarvis AI</h1>
+</div>
 
-![picture](https://abhishekrana.com/Jarvis-AI/Images/Icon.png)
+<hr>
+<br>
 
+<p align="center">
+  <img width="30%" src="https://abhishekrana.com/Jarvis-AI/Images/Icon.png"/>
+</p>
 Jarvis AI is an android application that allows the user to interact with Jarvis which is an AI assistant that is powered by Open AI API and is even able to interact via voice using Microsoft Azure Speech Service.
+
+<hr>
+<br>
 
 ## Table of Contents
 
 - [Installation](#installation)
 - [Usage](#usage)
-- [Examples](#examples)
+- [Screenshots](#screenshots)
+
+<hr>
+<br>
 
 ## Installation
 
@@ -42,23 +54,37 @@ Jarvis AI is an android application that allows the user to interact with Jarvis
     Click on 'Build'
     ```
 
+<hr>
+<br>
+
 ## Usage
 
 Chat Scene: You can interact with Jarvis here.
-Settings Scecne: Here you have the options to change username, toggle sound and exit the app.
+<br>
+Settings Scene: Here you have the options to change username, toggle sound and exit the app.
+
+<hr>
+<br>
 
 ## Screenshots
 
 ### Splash Screen
 
-![picture](https://abhishekrana.com/Jarvis-AI/Images/SplashScreen.png)
-<br>
+<p align="center">
+  <img width="30%" src="https://abhishekrana.com/Jarvis-AI/Images/SplashScreen.jpg"/>
+</p>
+<hr>
 
 ### Chat Scene
 
-![picture](https://abhishekrana.com/Jarvis-AI/Images/ChatScene.png)
-<br>
+<p align="center">
+  <img width="30%" src="https://abhishekrana.com/Jarvis-AI/Images/ChatScene.jpg"/>
+</p>
+<hr>
 
 ### Settings Scene
 
-![picture](https://abhishekrana.com/Jarvis-AI/Images/SettingsScene.png)
+<p align="center">
+  <img width="30%" src="https://abhishekrana.com/Jarvis-AI/Images/SettingsScene.jpg"/>
+</p>
+<hr>
