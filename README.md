@@ -10,7 +10,7 @@
 <p align="center">
   <img width="30%" src="https://abhishekrana.com/Jarvis-AI/Images/Icon.png"/>
 </p>
-Jarvis AI is an android application that allows the user to interact with Jarvis which is an AI assistant that is powered by Open AI API and is even able to interact via voice using Microsoft Azure Speech Service.
+Jarvis AI is an android application made with Unity that allows the user to interact with Jarvis which is an AI assistant that is powered by Open AI API and is even able to interact via voice using Microsoft Azure Speech Service.
 
 <hr>
 <br>
