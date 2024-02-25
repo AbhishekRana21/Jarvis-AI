@@ -1,0 +1,12 @@
+Font: EmojiOne  Style: Color
+Point Size: 198   SP/PD Ratio: 4.5%
+
+Characters included: 23/23
+Missing characters: 0
+Excluded characters: 0
+
+Characters missing from font file:
+----------------------------------------
+
+Characters excluded from packing:
+----------------------------------------
