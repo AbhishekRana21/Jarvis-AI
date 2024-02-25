@@ -46,13 +46,21 @@ Jarvis AI is an android application made with Unity that allows the user to inte
     jarvisAIspeechAPI = "Speech API Key Here";
     ```
 
-4. Build the project in Unity:
+4. Build the project:
 
     ```bash
+    Open the project in Unity
     Go to File -> Build Settings
     Choose 'Android' Platform
     Click on 'Build'
     ```
+
+5. Install application
+
+    ```bash
+      Transfer the APK file to your android device
+      Install Jarvis AI application
+      ```
 
 <hr>
 <br>
